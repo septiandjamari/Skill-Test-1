@@ -1,0 +1,4 @@
+Nama	: Septian Djamari Chaniaco
+Umur	: 24 Tahun
+Stack	: Frontend
+Bahasa Pemrograman : React.js
